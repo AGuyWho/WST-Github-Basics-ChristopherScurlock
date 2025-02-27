@@ -1,0 +1,8 @@
+
+public class Greeting : MonoBehavior
+{
+  void Start()
+  {
+    
+  }
+}
